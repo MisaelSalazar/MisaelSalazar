@@ -7,8 +7,8 @@
 <h2> / about me /</h2>
 
 - 🧑‍💻 Desarrollador web frontend en el proyecto UNADM–IPICYT
-- 🎓 Estudiante de Ingeniería en Sistemas Computacionales (9° semestre)
-- 🕌 Musulmán orgulloso, apasionado por la educación, el software libre y la IA
+- 🎓 Ingeniero en Sistemas Computacionales
+- 📚 Experiencia en: Maquetación de diseños, integración de API REST, control de versiones Git, trabajo colaborativo, trabajo remoto
 
 <h2> / current skills / </h2>
 
