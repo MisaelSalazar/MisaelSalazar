@@ -50,5 +50,3 @@
 ---
 
 📝 *Última actualización: 28 de julio de 2025*
-
-🎨 Credit: [zillastar](https://github.com/zillastar)
