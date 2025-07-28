@@ -1,49 +1,127 @@
-# 👋 ¡Hola, soy Mus'ab!
 
-🧑‍💻 Ingeniero en Sistemas Computacionales apasionado por el desarrollo de software, la tecnología educativa, la inteligencia artificial y la programación web. Actualmente formo parte del equipo de Frontend en el proyecto de la UNADM en colaboración con el IPICYT.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+  </ul>
+</div>
 
-## 🚀 Tecnologías y herramientas
 
-- 💻 Lenguajes: HTML5, CSS3, JavaScript, PHP, Java
-- ⚙️ Frameworks y Librerías: React, Vite, Bootstrap, Express.js
-- 🧠 IA y Ciencia de Datos: MATLAB, redes neuronales (aprendiendo)
-- 🐧 Entusiasta de Linux (Zorin OS, Elementary OS, Debian)
-- 🧩 Otros: MySQL, Apache Cordova, Git, Swagger, REST APIs
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
----
 
-## 🛠️ Proyectos destacados
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-### 📚 Huastekapp
-App móvil educativa para la enseñanza de lenguas indígenas (náhuatl, tének, xioi) mediante juegos, lecciones y cuentos interactivos.  
-Tecnologías: Cordova, HTML5, JavaScript, CSS3
 
-### 🌿 Sameyvi
-Aplicación móvil para ayudar a personas con ansiedad y estrés.  
-Colaboración con el DIF municipal. Enfocada en salud mental y bienestar emocional.
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
-### 🎓 UNADM - Sistema de Gestión Educativa
-Desarrollo de módulos front end con React para la gestión de enlaces, noticias, solicitudes de seguro y dispersión académica.  
-Trabajo colaborativo con backend mediante APIs documentadas con Swagger.
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
----
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-## ✨ Sobre mí
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-Soy un autodidacta entusiasta, creyente del poder de la educación y la tecnología para transformar vidas. Mi objetivo a largo plazo es crear una empresa de servicios de hosting y soluciones tecnológicas accesibles. También estoy desarrollando un canal de YouTube educativo donde comparto tutoriales de programación y tecnología.
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-📖 Me gustan los cómics, los animes con tramas políticas como *Overlord*, y disfruto crear mundos de fantasía inspirados en la historia y el pensamiento estratégico.
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
----
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+<!--Intro end-->
 
-## 📬 Conecta conmigo
 
-- 🌐 [inversionparaprincipiantes.com](https://inversionparaprincipiantes.com/)
-- 📹 Canal de YouTube: [VSMussab](https://www.youtube.com/@VSMussab)
-- 💼 [LinkedIn](https://www.linkedin.com/in/musab-dev) *(si lo tienes, aquí va)*
 
----
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
-> **“La programación no solo construye software, también construye el futuro.”**
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [1010nishant](https://github.com/1010nishant)
+
+Last Edited on: 29/4/2023
