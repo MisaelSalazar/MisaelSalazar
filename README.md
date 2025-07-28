@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/x6qU1kR.png"></p>
-
 <div>
 
 <h1>👋 ¡Hola Mundo, Soy Misael Salazar!</h1>
