@@ -1,6 +1,9 @@
+<h1>👋 ¡Hola Mundo, Soy Misael Salazar!</h1>
+
 <div>
 
-<h1>👋 ¡Hola Mundo, Soy Misael Salazar!</h1>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
 <h2> / about me /</h2>
 
 - 🧑‍💻 Desarrollador web frontend en el proyecto UNADM–IPICYT
