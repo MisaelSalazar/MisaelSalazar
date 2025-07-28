@@ -6,8 +6,9 @@
 
 <h2> / about me /</h2>
 
-- 🧑‍💻 Desarrollador web frontend en el proyecto UNADM–IPICYT
+- 🧑‍💻 Desarrollador web frontend
 - 🎓 Ingeniero en Sistemas Computacionales
+- 💼 Actualmente colaborador en el proyecto UNADM-IPICYT
 - 📚 Experiencia en: Maquetación de diseños, integración de API REST, control de versiones Git, trabajo colaborativo, trabajo remoto
 
 <h2> / current skills / </h2>
